@@ -10,7 +10,7 @@ Javascript viewer for X3D models
 * hide/show selected elements
 
 ## Install
-* clone this repo.
+* clone this repo
 * link to your webserver, e.g.: `http://localhost/x3domviewer`
 * open example: `http://localhost/x3domviewer/index.html?model=x3d/0393-12-29.x3d`
 * copy or link all x3d models to some dir, e.g.: `/var/www/html/x3domviewer/x3d/`
